@@ -1,5 +1,2 @@
-# demo
-Demo repository
-Learning git...
-Updated again
-Making changes in the demo_branch1...
+# Приложение падает
+Работаем в отдельной ветке
